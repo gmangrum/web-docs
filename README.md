@@ -8,4 +8,4 @@ Learn some useful web tips and tricks!
 
 ## How To Use
 
-Go into the `lesons/` folder and select a lesson
+Go into the `lessons/` folder and select a lesson
